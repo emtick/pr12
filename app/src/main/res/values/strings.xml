@@ -3,6 +3,13 @@
     <string name="text_name">НМедиа</string>
     <string name="text">БТПИТ</string>
     <string name="time">23 февраля в 00:00</string>
-
-
+    <string name="post_text">Post Text</string>
+    <string name="description_post_like">Like</string>
+    <string name="description_post_menu">Post menu</string>
+    <string name="description_post_share">Share</string>
+    <string name="description_post_save">Save</string>
+    <string name="add_post">Add post</string>
+    <string name="description_post_author_avatar">Post author avatar</string>
+    <string name="chooser_share_post">Share post</string>
+    <string name="error_empty_content">Content can\'t be empty</string>
 </resources>
