@@ -46,4 +46,8 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
     implementation("androidx.activity:activity-ktx:1.8.2")
+    implementation ("com.google.code.gson:gson:2.8.8")
+    implementation ("androidx.navigation:navigation-fragment-ktx:2.3.0-beta01")
+    implementation ("androidx.navigation:navigation-ui-ktx:2.3.0-beta01")
+
 }
